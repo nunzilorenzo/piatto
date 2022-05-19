@@ -1,0 +1,14 @@
+nome_piatto,descrizione_piatto,prezzo_piatto,categoria_piatto,piatto_vegano,piatto_noglutine
+"Carciofo, Menta e Pecorino",inserisci qui la descrizione del prodotto !,9,Antipasti,TRUE,FALSE
+Il Panino della Pista,inserisci qui la descrizione del prodotto !,10,Antipasti,TRUE,TRUE
+Anatra Laccata e Camomilla di Finocchi,inserisci qui la descrizione del prodotto !,10,Antipasti,TRUE,TRUE
+Trota Panata ma non Fritta,inserisci qui la descrizione del prodotto !,13,Antipasti,TRUE,FALSE
+Bottoni Verdi,inserisci qui la descrizione del prodotto !,13,Primi,TRUE,TRUE
+Ceppo Regina dei Sibillini e Sugo de lo Vatte,inserisci qui la descrizione del prodotto !,13,Primi,TRUE,FALSE
+Ravioli di Coniglio in padella,inserisci qui la descrizione del prodotto !,9,Primi,TRUE,FALSE
+"Penne, Panna e Trota",inserisci qui la descrizione del prodotto !,13,Primi,FALSE,TRUE
+Cipolla Cotta nel Sale e Amaretto,inserisci qui la descrizione del prodotto !,13,Secondi,FALSE,FALSE
+"Quaglia, Fegato e Sapa",inserisci qui la descrizione del prodotto !,13,Secondi,FALSE,TRUE
+Guancia di Vitello 36 ore,inserisci qui la descrizione del prodotto !,13,Secondi,FALSE,FALSE
+Storione Arrosto,inserisci qui la descrizione del prodotto !,13,Secondi,FALSE,FALSE
+Selezione di formaggi locali ,inserisci qui la descrizione del prodotto !,13,Secondi,FALSE,TRUE
