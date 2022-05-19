@@ -31,7 +31,7 @@ for category in categories:
 #inserisco su html insieme ai file parsati del menu csv
 html = "<style>" + css + "</style>"
 html += "<div class=\"menu-body\">"
-#da fixare immagine si sputtana 
+#da fixare immagine non và
 
 #html += "<img src="/officinadelsolelogo.png>""
 
